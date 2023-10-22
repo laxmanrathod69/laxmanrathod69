@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)]
+[![MasterHead](https://www.pixelstalk.net/wp-content/uploads/images5/4K-Programming-Wallpaper-for-Desktop.jpg)]
 <h1 align="center">Hi 👋, I'm Laxman Rathod</h1>
 <h3 align="center">Turning coffee into code ☕</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/fetch/w300-preview/f3/f338cf0f19b340869129e56a79861614.gif">
