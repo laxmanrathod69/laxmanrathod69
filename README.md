@@ -1,7 +1,7 @@
 [![MasterHead](https://images6.alphacoders.com/128/1283574.png)]
 <h1 align="center">Hi 👋, I'm Laxman Rathod</h1>
 <h3 align="center">Turning coffee into code ☕</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\lucky\Downloads\—Pngtree—flat kids programming_5401917.png">
+<img align="right" alt="Coding" width="400" src="https://pngtree.com/freepng/children-s-software-programming_5401261.html">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodlucky12&label=Profile%20views&color=0e75b6&style=flat" alt="rathodlucky12" /> </p>
 
