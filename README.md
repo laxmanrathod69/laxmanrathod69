@@ -1,7 +1,7 @@
 [![MasterHead](https://images6.alphacoders.com/128/1283574.png)]
 <h1 align="center">Hi 👋, I'm Laxman Rathod</h1>
 <h3 align="center">Turning coffee into code ☕</h3>
-<img align="right" alt="Coding" width="400" src="https://wall.alphacoders.com/big.php?i=1156488">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:2880/1*4kDEgKXOLcuDUPfP5fm3Ew.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodlucky12&label=Profile%20views&color=0e75b6&style=flat" alt="rathodlucky12" /> </p>
 
