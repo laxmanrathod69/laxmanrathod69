@@ -11,12 +11,14 @@
 Hello, My name is Laxman Rathod I'm a dedicated college student with a passion for exploring new and innovative skills. Here, you'll find my projects related to web development, problem-solving, and more. Join me on this exciting journey of continuous learning and growth! Feel free to explore and collaborate on my projects. 😄🌟
 
 <h3>🔧 Technologies and Interests</h3>
-- Web development
-- Frontend designer 
-- Problem solving
-- Data structures & algos
 
-- 🌱 I’m currently learning **Javascript and its libraries.**
+   - Web development
+   - Frontend designer 
+   - Problem solving
+   - Data structures & algos
+
+  
+- 🌱 I’m currently learning **Javascript and Python.**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
@@ -30,7 +32,7 @@ Hello, My name is Laxman Rathod I'm a dedicated college student with a passion f
 
 - ⚡ Fun fact **I think I am funny**
 
-- Feel free to reach out, collaborate, or share ideas. Let's learn and innovate together! 🚀✨
+- 😀 Feel free to reach out, collaborate, or share ideas. Let's learn and innovate together! 🚀✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
