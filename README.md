@@ -1,11 +1,19 @@
 [![MasterHead](https://images6.alphacoders.com/128/1283574.png)]
-<h1 align="center">Hi 👋, I'm Laxman Rathod</h1>
+<h1 align="center">Hi 👋, I'm Laxman Rathod and Welcome to My GitHub Profile!</h1>
 <h3 align="center">Turning coffee into code ☕</h3>
 <img align="right" alt="Coding" width="500" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodlucky12&label=Profile%20views&color=0e75b6&style=flat" alt="rathodlucky12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/luckyrathod__" target="blank"><img src="https://img.shields.io/twitter/follow/luckyrathod__?logo=twitter&style=for-the-badge" alt="luckyrathod__" /></a> </p>
+
+- Hello, My name is Laxman Rathod I'm a dedicated college student with a passion for exploring new and innovative skills. Here, you'll find my projects related to web development, problem-solving, and more. Join me on this exciting journey of continuous learning and growth! Feel free to explore and collaborate on my projects. 😄🌟
+
+<h1>🔧 Technologies and Interests</h1>
+- Web development
+- Frontend designer 
+- Problem solving
+- Data structures & algos
 
 - 🌱 I’m currently learning **Javascript and its libraries.**
 
@@ -20,6 +28,8 @@
 - 📫 How to reach me **luckyrathod1137@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+- Feel free to reach out, collaborate, or share ideas. Let's learn and innovate together! 🚀✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
