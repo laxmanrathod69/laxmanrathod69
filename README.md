@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/luckyrathod__" target="blank"><img src="https://img.shields.io/twitter/follow/luckyrathod__?logo=twitter&style=for-the-badge" alt="luckyrathod__" /></a> </p>
 
-<p align="left"> <a href="https://t.me/softenggL" target="blank"><img src="https://img.shields.io/telegram/follow/softenggL?logo=telegram &style=for-the-badge" alt="softenggL" /></a> </p>
-
 <h3>🤗 About me</h3>
 Hello, My name is Laxman Rathod I'm a dedicated college student with a passion for exploring new and innovative skills. Here, you'll find my projects related to web development, problem-solving, and more. Join me on this exciting journey of continuous learning and growth! Feel free to explore and collaborate on my projects. 😄🌟
 
