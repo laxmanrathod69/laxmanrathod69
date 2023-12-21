@@ -12,13 +12,13 @@ Hello, My name is Laxman Rathod I'm a dedicated college student with a passion f
 
 <h3>🔧 Technologies and Interests</h3>
 
-   - Web development
-   - Frontend designer 
+   - Web development MERN
+   - Open source 
    - Problem solving
    - Data structures & algos
 
   
-- 🌱 I’m currently learning **Javascript and Python.**
+- 🌱 I’m currently learning **.**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
