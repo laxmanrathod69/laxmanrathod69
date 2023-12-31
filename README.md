@@ -12,7 +12,7 @@ Hello, My name is Laxman Rathod I'm a dedicated college student with a passion f
 
 <h3>🔧 Technologies and Interests</h3>
 
-   - Web development MERN
+   - Full Stack via MERN
    - Open source 
    - Problem solving
    - Data structures & algos
@@ -20,13 +20,13 @@ Hello, My name is Laxman Rathod I'm a dedicated college student with a passion f
   
 - 🌱 I’m currently learning **.**
 
-- 👯 I’m looking to collaborate on **Web development Projects**
+- 👯 I’m looking to collaborate on **Web dev Projects**
 
-- 🤝 I’m looking for help with **Web development Projects**
+- 🤝 I’m looking for help with **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rathodlucky12](https://github.com/rathodlucky12)
 
-- 💬 Ask me about **Web dev, DSA, Java**
+- 💬 Ask me about **Dev, DSA, Core Sub.**
 
 - 📫 How to reach me **luckyrathod1137@gmail.com**
 
