@@ -25,10 +25,11 @@ Hello, My name is Laxman Rathod I'm a dedicated college student with a passion f
 - 🤝 I’m looking for help with **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rathodlucky12](https://github.com/rathodlucky12)
+ [https://devpost.com/laxmanrathod-dev](https://devpost.com/laxmanrathod-dev)
 
 - 💬 Ask me about **Dev, DSA, Core Sub.**
 
-- 📫 How to reach me **luckyrathod1137@gmail.com**
+- 📫 How to reach me **laxmanrathod.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
