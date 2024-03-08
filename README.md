@@ -1,7 +1,6 @@
-[![MasterHead](https://images6.alphacoders.com/128/1283574.png)]
+![MasterHead](https://images6.alphacoders.com/128/1283574.png)
 <h1 align="center">Hi 👋, I'm Laxman Rathod Welcome to My GitHub Profile!</h1>
 <h3 align="center">Turning coffee into code ☕</h3>
-<img align="right" alt="Coding" width="500" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-rathod" /> </p>
 
