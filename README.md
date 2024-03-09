@@ -1,5 +1,5 @@
-<!--![MasterHead](https://images6.alphacoders.com/128/1283574.png)-->
-<h1 align="center">Hi 👋, I'm Laxman Rathod Welcome to My GitHub Profile!</h1>
+![MasterHead](https://images6.alphacoders.com/128/1283574.png)
+<h1 align="center">Hi 👋, I'm Laxman Rathod and Welcome to My World!</h1>
 <h3 align="center">Turning coffee into code ☕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-rathod" /> </p>
