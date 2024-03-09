@@ -1,4 +1,4 @@
-![MasterHead](https://images6.alphacoders.com/128/1283574.png)
+<!--![MasterHead](https://images6.alphacoders.com/128/1283574.png)-->
 <h1 align="center">Hi 👋, I'm Laxman Rathod Welcome to My GitHub Profile!</h1>
 <h3 align="center">Turning coffee into code ☕</h3>
 
