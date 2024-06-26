@@ -27,8 +27,8 @@
   <a href="https://twitter.com/luckyrathod__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
   </a>
-<!--   <a herf="https://discordapp.com/users/1074223340560064512" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a> -->
+<a herf="https://discordapp.com/users/1182901168746283010" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a> 
 
 </div>
 <p align="center">
