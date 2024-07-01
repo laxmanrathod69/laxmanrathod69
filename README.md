@@ -1,4 +1,4 @@
-<h1>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there! I'm Laxman Rathod</h1>
+<h1>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there! I'm Laxman</h1>
   <p>A passionate coder and tech enthusiast on a journey through the digital universe. Here's a bit about me:</p>
   <ul>
     <li>💻 Constantly exploring new technologies and tools to expand my skill set.</li>
@@ -12,7 +12,7 @@
 <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" margin="10px" src="https://skillicons.dev/icons?i=js,python,java,php,c,html,css,flask,react,nextjs,tailwind,nodejs,express,mongodb,mysql,php,discord,vscode,postman,figma,vite,npm,git,github,linux" />
+    <img align="center" margin="10px" src="https://skillicons.dev/icons?i=js,ts,python,java,php,c,cpp,html,css,flask,react,nextjs,tailwind,nodejs,express,mongodb,mysql,php,discord,vscode,postman,figma,vite,npm,git,github,linux" />
   </a>
 </p>
 <h2 text-align:center>📊 My Stats</h2>
