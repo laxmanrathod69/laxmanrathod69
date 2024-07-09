@@ -12,7 +12,7 @@
 <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" margin="10px" src="https://skillicons.dev/icons?i=js,ts,python,java,php,c,cpp,html,css,flask,react,nextjs,tailwind,nodejs,express,mongodb,mysql,php,discord,vscode,postman,figma,vite,npm,git,github,linux" />
+    <img align="center" margin="10px" src="https://skillicons.dev/icons?i=js,ts,tailwind,redux,react,nextjs,nodejs,express,mongodb,mysql,regex,flask,python,java,php,html,css,c,cpp,powershell,figma,discord,postman,vscode,pycharm,vite,npm,git,github,linux" />
   </a>
 </p>
 <h2 text-align:center>📊 My Stats</h2>
