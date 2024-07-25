@@ -6,8 +6,7 @@
     <li>📚 Lifelong learner committed to personal and professional growth.</li>
     <li>🌟 Let's connect and build something awesome together!</li>
   <li>Feel free to reach out and say hello! 🌈✨</li>
-    
-  </ul>
+ </ul>
   
 <h2>Skills</h2>
 <p align="center">
@@ -22,13 +21,15 @@
 </br>
 <h2>Profiles</h2>
 <div align="center">
-  <a herf="https://www.linkedin.com/in/laxman-rathod/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/laxmanrathod1" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://twitter.com/luckyrathod__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
   </a>
-<a herf="https://discordapp.com/users/1182901168746283010" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a> 
+<a href="https://discordapp.com/users/1182901168746283010" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
+</a> 
 
 </div>
 <p align="center">
