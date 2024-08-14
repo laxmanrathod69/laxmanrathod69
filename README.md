@@ -35,7 +35,7 @@
 <a href="#">
 <img align="start" margin="10px" src="https://skillicons.dev/icons?i=js,ts,tailwind,redux,react,nextjs,nodejs,express,mongodb,mysql,flask,python,java,php,html,css,cpp,figma,postman,vscode,git,github,linux" />
 </a><br>
-<br>
+<h2>Projects and github stats:</h2>
 <details>
 <summary>⚡ Github Stats </summary>
 
