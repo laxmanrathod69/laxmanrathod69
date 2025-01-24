@@ -17,7 +17,8 @@
 
 <p>I'm a passionate Full-Stack Developer with a knack for building scalable web applications and efficient back-end systems. My journey through the digital universe has equipped me with a robust skill set and a love for coding. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.</p>
 
-### Personally:<img width="150" src="https://github.com/laxmanrathod69/laxmanrathod69/blob/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right" alt="programming"/>
+### Personally:
+<!-- <img width="150" src="https://github.com/laxmanrathod69/laxmanrathod69/blob/main/assets/programming%illustration.png" min-width="300px" max-width="300px" width="350px" align="right" alt="programming"/> -->
 
 - 🛠️ I have alot of passion working with TypeScript/NextJS.
 - 💻 I'm constantly exploring new technologies and tools to expand my skill set.
@@ -35,7 +36,7 @@
 ### ⚙️ Languages and tools:
 
 <a href="#">
-  <img align="start" margin="10px" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,php,nextjs,express,postgres,mongodb,linux" />
+  <img align="start" margin="10px" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,php,nextjs,express,postgres,mongodb,flask,tailwind,linux,vscode,github" />
 </a>
 <br>
 
