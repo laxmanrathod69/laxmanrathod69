@@ -17,8 +17,9 @@
 
 <p>I'm a passionate Full-Stack Developer with a knack for building scalable web applications and efficient back-end systems. My journey through the digital universe has equipped me with a robust skill set and a love for coding. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.</p>
 
+<img src="https://github.com/laxmanrathod69/laxmanrathod69/blob/main/assets/programming%20illustration.png" min-width="300px" max-width="300px" width="350px" align="right" alt="programming"/>
+
 ### Personally:
-<!-- <img width="150" src="https://github.com/laxmanrathod69/laxmanrathod69/blob/main/assets/programming%illustration.png" min-width="300px" max-width="300px" width="350px" align="right" alt="programming"/> -->
 
 - 🛠️ I have alot of passion working with TypeScript/NextJS.
 - 💻 I'm constantly exploring new technologies and tools to expand my skill set.
@@ -103,7 +104,8 @@
 <td>• Code Editor: Visual Studio Code</td><br>
 <td>• To Stay Updated: Dev.to, Medium and Twitter</td>
 </details>
-<h1> </h1>
+<!-- Line -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
   <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
