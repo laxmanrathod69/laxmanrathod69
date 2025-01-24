@@ -1,54 +1,64 @@
-<h1>Hey 👋, I'm Laxman Rathod</h1>
+<h1>
+  Hey 👋, I'm <a href="https://github.com/laxmanrathod69">Laxman Rathod!</a>
+</h1>
 <div align="start">
-  <a href="https://www.linkedin.com/in/laxmanrathod1" target="_blank">
+  <a href="https://www.linkedin.com/in/laxmanrathod69" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/luckyrathod__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
   </a>
-<a href="https://discordapp.com/users/1182901168746283010" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
-</a> 
+  <a href="https://discordapp.com/users/1182901168746283010" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
+  </a> 
 </div>
 
-<h2>Glad to see you here!</h2>
+### Glad to see you here!
 
 <p>I'm a passionate Full-Stack Developer with a knack for building scalable web applications and efficient back-end systems. My journey through the digital universe has equipped me with a robust skill set and a love for coding. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.</p>
 
-<h2>Personally:</h2>
+### Personally:<img width="150" src="https://github.com/laxmanrathod69/laxmanrathod69/blob/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right" alt="programming"/>
 
 - 🛠️ I have alot of passion working with TypeScript/NextJS.
 - 💻 I'm constantly exploring new technologies and tools to expand my skill set.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/laxman-rathod).
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/laxmanrathod69).
 - 🔍 Always on the hunt for interesting projects to collaborate on.
 - 📚 Lifelong learner committed to personal and professional growth.
 - 📩 How to reach me: [laxmanrathod.dev@gmail.com](laxmanrathod.dev@gmail.com)
 - Feel free to reach out and say hello! 🌈✨
 
-<h2>My Absolute Favorites:</h2>
+### My Absolute Favorites:
 
 - 💻 I love exploring new technologies and building cool stuffs.
 - 🍕 Outdoor/Video Games.
 
-<h2>⚙️ Languages and tools:</h2>
+### ⚙️ Languages and tools:
 
 <a href="#">
-<img align="start" margin="10px" src="https://skillicons.dev/icons?i=js,ts,tailwind,redux,react,nextjs,nodejs,express,mongodb,mysql,flask,python,java,php,html,css,cpp,figma,postman,vscode,git,github,linux" />
-</a><br>
-<h2>Projects and github stats:</h2>
-<details>
-<summary>⚡ Github Stats </summary>
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laxman-rathod&theme=gruvbox-duo&border_radius=4" alt="GitHub Streak" /></a>
-</div>
-
-<a> 
-    <a href="https://github.com/laxman-rathod"><img alt="Starks's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=laxman-rathod&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-    </a>
-    <a href="https://github.com/laxman-rathod"><img alt="Stark's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=laxman-rathod&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-    </a>
+  <img align="start" margin="10px" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,php,nextjs,express,postgres,mongodb,linux" />
 </a>
+<br>
+
+### Projects and github stats:
+
+<details>
+  <summary>⚡ Github Stats </summary>
+
+  <div align="center"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laxmanrathod69&theme=github_dark" alt="GitHub Analytics" />
+</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laxmanrathod69&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laxmanrathod69&theme=github_dark" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmanrathod69&show_icons=true&theme=github_dark" alt="your-github-stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laxmanrathod69&theme=github_dark&utcOffset=8" alt="Productive Time" />
+</p>
+
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=laxmanrathod69&theme=dracula&no-frame=true&row=1&column=8" alt="GitHub Trophies" />
+</p>
 </details>
 
 <details>
@@ -58,39 +68,41 @@
 <th>💻 Projects</th>	<th>🌟 Stars</th>	<th>🍴 Forks</th>	<th>🐛 Issues</th>	<th>🔔 Pull Requests</th>	<th>👨‍💻 Language </th>
 </tr>
 <tr>
-<td><a href="https://github.com/laxman-rathod/Podly">Podly</a></td>
-<td><img src="https://img.shields.io/github/stars/laxman-rathod/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/forks/laxman-rathod/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues/laxman-rathod/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues-pr/laxman-rathod/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/languages/top/laxman-rathod/Podly?style=flat-square" /></td>
+<td>🎙️ <a href="https://github.com/laxmanrathod69/Podly">Podly</a></td>
+<td><img src="https://img.shields.io/github/stars/laxmanrathod69/Podly?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/laxmanrathod69/Podly?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/laxmanrathod69/Podly?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/laxmanrathod69/Podly?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/languages/top/laxmanrathod69/Podly?style=flat-square" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/laxman-rathod/Anonymous-Message-App">Anonymous Message</a></td>
-<td><img src="https://img.shields.io/github/stars/laxman-rathod/Anonymous-Message-App?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/forks/laxman-rathod/Anonymous-Message-App?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues/laxman-rathod/Anonymous-Message-App?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues-pr/laxman-rathod/Anonymous-Message-App?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/languages/top/laxman-rathod/Anonymous-Message-App?style=flat-square" /></td>
+<td>☁️ <a href="https://github.com/laxmanrathod69/skysafe">SkySafe</a></td>
+<td><img src="https://img.shields.io/github/stars/laxmanrathod69/skysafe?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/laxmanrathod69/skysafe?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/laxmanrathod69/skysafe?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/laxmanrathod69/skysafe?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/languages/top/laxmanrathod69/skysafe?style=flat-square" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/laxman-rathod/Horizon-Banking-App">Horizon Banking</a></td>
-<td><img src="https://img.shields.io/github/stars/laxman-rathod/Horizon-Banking-App?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/forks/laxman-rathod/Horizon-Banking-App?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues/laxman-rathod/Horizon-Banking-App?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues-pr/laxman-rathod/Horizon-Banking-App?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/languages/top/laxman-rathod/Horizon-Banking-App?style=flat-square" /></td>
+<td>💡 <a href="https://github.com/laxmanrathod69/grouple">Grouple</a></td>
+<td><img src="https://img.shields.io/github/stars/laxmanrathod69/grouple?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/laxmanrathod69/grouple?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/laxmanrathod69/grouple?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/laxmanrathod69/grouple?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/languages/top/laxmanrathod69/grouple?style=flat-square" /></td>
 </tr>
-
 </table>
 </details>
 
 <details>
-<summary>🧑‍🤝‍🧑 ᴠɪsɪᴛᴏʀs</summary>
-<img align="middle" src="https://profile-counter.glitch.me/laxman-rathod/count.svg" />
+<summary>⚙️ Things I use to get stuff done</summary>
+<td>• OS: Windows 11</td><br>
+<td>• Desktop: HP i3</td><br>
+<td>• Browser: Firefox Developer Edition, Google Chrome</td><br>
+<td>• Code Editor: Visual Studio Code</td><br>
+<td>• To Stay Updated: Dev.to, Medium and Twitter</td>
 </details>
-<br>
-
+<h1> </h1>
 <div align="center">
-<h2>Show some ❤️ by starring some of the repositories!</h2>
+  <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
