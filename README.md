@@ -1,6 +1,6 @@
-<h1>
+<h2>
   Hey 👋, I'm <a href="https://github.com/laxmanrathod69">Laxman Rathod!</a>
-</h1>
+</h2>
 <div align="start">
   <a href="https://www.linkedin.com/in/laxmanrathod69" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -15,7 +15,7 @@
 
 ### Glad to see you here!
 
-<p>I'm a passionate Full-Stack Developer with a knack for building scalable web applications and efficient back-end systems. My journey through the digital universe has equipped me with a robust skill set and a love for coding. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.</p>
+<p>I'm a passionate Full-Stack Developer with a deep interest in building scalable web applications and efficient backend systems. My journey in the digital space has equipped me with a strong problem-solving mindset and a love for coding. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.</p>
 
 <img src="https://github.com/laxmanrathod69/laxmanrathod69/blob/main/assets/programming%20illustration.png" min-width="300px" max-width="300px" width="350px" align="right" alt="programming"/>
 
